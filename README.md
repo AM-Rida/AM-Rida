@@ -49,3 +49,7 @@ My primary field of interest is **Applied Physics**, and I’m continuously deve
 <a href="https://www.linkedin.com/in/rida-undefined-753323434/" target="_blank">
   <img align="left" alt="LinkedIn" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
 </a>
+
+<a href="https://x.com/AM_Rida_ez" target="_blank">
+  <img align="left" alt="X" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg">
+</a>
